@@ -2,3 +2,8 @@
 /build
 /.gradle
 /gradleDir
+
+arm-nilrt-linux-gnueabi/*
+bin/*
+libexec/*
+share/*

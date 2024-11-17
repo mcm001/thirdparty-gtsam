@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.jinja": "jinja",
+        "chrono": "cpp",
+        "iostream": "cpp"
+    }
+}
